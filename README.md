@@ -1,0 +1,2 @@
+# microservices-rabbit
+rabbit studies
